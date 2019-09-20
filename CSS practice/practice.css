@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Turret+Road&display=swap');
+body {
+    background-color: #b19cd9;
+}
+.kahit {
+    color: #5c114e;
+    text-align: center;
+    font-weight: italic;
+}
+.ano {
+    color: #5c1121;
+    font-family: 'Turret Road', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+.daw {
+    color: #11435c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
