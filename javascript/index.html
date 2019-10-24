@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Javascript Exercise 1</title>
+    </head>
+    <body>
+        <form>
+            Name:<br>
+            <input type="text" name="Name" id="name"><br>
+            Age:<br>
+            <input type="number" name="Age" id="age"><br>
+            <button onclick="displayBio()">Click Me</button>
+        </form>
+        <script>
+            function displayBio() {
+                alert("Hello my name is " + document.getElementById("name").value + " and I am " + document.getElementById("age").value + " years old")
+            }
+        </script>
+    </body>
+</html>
